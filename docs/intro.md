@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome
 
-Hi there 👋. I am really excite to share that here in this website I will be sharing my programking learning with all of you and i hope it may help you in someway.
+Hi there 👋. I am really excite to share that here in this website I will be sharing my programming learning with all of you and i hope it may help you in someway.
 
 ## About Me
 
