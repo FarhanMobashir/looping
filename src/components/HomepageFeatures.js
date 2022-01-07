@@ -4,33 +4,30 @@ import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
+    title: "Problem Solving",
     Svg: require("../../static/img/abacus.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Learn about solving problems while building prjects or while solving
+        coding problems.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
+    title: "Code",
     Svg: require("../../static/img/computer.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Code everyday and always try to push your limits while solving any kind
+        of problem , then only go for help.
       </>
     ),
   },
   {
-    title: "Powered by React",
+    title: "Coffee",
     Svg: require("../../static/img/coffee.svg").default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>And ofcourse make coffee your best-friend 😂.Just kidding.</>
     ),
   },
 ];
