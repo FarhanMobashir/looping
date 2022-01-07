@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require("../../static/img/abacus.svg").default,
     description: (
       <>
-        Learn about solving problems while building prjects or while solving
+        Learn about solving problems while building projects or while solving
         coding problems.
       </>
     ),
