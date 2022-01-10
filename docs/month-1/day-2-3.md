@@ -8,7 +8,7 @@ sidebar_position: 2
 
 It is a kind of pattern in coding which some languages support like Haskell, Clojure, Elm. Javascript is not particularly a functional programming language but it can be easily used in javascript.
 
-You can also say functional programming as a programming paradigm like imperative like object-oriented etc and declarative like functional.
+You can also say functional programming as a programming paradigm like declarative instead of imperative like object-oriented.
 
 Functional programming has one simple and main idea of having pure functions which basically means it only takes its input in gives output back irrespective of what having outside of the world.
 
