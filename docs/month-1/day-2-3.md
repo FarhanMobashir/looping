@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# DAY 2+3 - JS - Functional Appraoch
+# JS - Functional Appraoch
 
 ### Introduction to Functional Programming
 

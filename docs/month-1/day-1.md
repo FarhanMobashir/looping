@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# DAY 1 - Javascript - A Declarative Approach
+# Javascript - A Declarative Approach
 
 Today I am starting my journey of learning at neogcamp for the next 6 months. In the coming 6 months I have planned to do a lot of hard work and become an advanced full stack we developer. I also want to help my other fellow mates in every possible ways I can and Try to become good at communication.
 
